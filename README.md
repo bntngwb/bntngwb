@@ -1,5 +1,5 @@
 # Hej!, I'm Aga, 
-#a Laravel Web Developer 👋🏼:
+# a Laravel Web Developer 👋🏼:
 📚 currently studying computer science at Institut Teknologi Sepuluh Nopember<br>👨🏼‍💻 working as a web developer since 2022<br>🎬 just started out with my youtube channel soon
 
 
